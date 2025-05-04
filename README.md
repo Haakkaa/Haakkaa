@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! My name is Haka, and I'm a begginer Web Developer</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hedythedev/pacman-contribution-graph/main/pacman.svg" alt="Pacman eating my contributions" />
+</p>
+
+
 [![Header](https://github.com/Haakkaa/Haakkaa/blob/main/assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/Haakkaa)
 
 
@@ -32,3 +37,5 @@
 </div>
 
 ###
+
+
